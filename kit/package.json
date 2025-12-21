@@ -1,0 +1,16 @@
+{
+  "name": "kit-tutorial",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "validator": "solana-test-validator"
+  },
+  "dependencies": {
+    "@solana/kit": "^2.1.0",
+    "tsx": "^4.19.3",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}
