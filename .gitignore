@@ -1,3 +1,17 @@
 node_modules
 .env
 test-ledger
+kit/from-docs/node_modules
+kit/from-docs/test-ledger
+kit/from-docs/.env
+/target
+/Cargo.lock
+/Cargo.toml
+/README.md
+/LICENSE
+/CHANGELOG.md
+/CONTRIBUTING.md
+/CODE_OF_CONDUCT.md
+/SECURITY.md
+/PATENTS.md
+/PATENTS.md
